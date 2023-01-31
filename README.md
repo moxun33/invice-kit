@@ -1,2 +1,15 @@
-# invice-kit
-invoice OCR , verify , screentshot api
+# invoice-kit 一站式发票工具, 本地部署、定制、拆分
+
+## 增值税发票
+
+- OCR
+- 查验
+- 截图
+- 参数解析
+- 验证码识别
+- 中登网查询接口、发票联动
+
+
+
+详情请联系QQ：1683361605
+

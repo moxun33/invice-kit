@@ -11,6 +11,8 @@
 
 > 发票识别
 ![i](imgs/invoice-ocr.png)
+> js参数解析、验证码识别
+![i](imgs/invoice-req-params.png)
 > 查验
 ![i](imgs/invoice-verify.png)
 > 截图

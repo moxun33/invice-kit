@@ -9,17 +9,28 @@
 - 验证码识别
 - 中登网查询接口、发票联动
 
-> 发票识别
+### 发票识别
+
 ![i](imgs/invoice-ocr.png)
-> js参数解析、验证码识别
+
+### js参数解析、验证码识别
+
 ![i](imgs/invoice-req-params.png)
-> 查验
+
+### 发票验真
+
 ![i](imgs/invoice-verify.png)
-> 截图
+
+### 结果截图
+
 ![i](imgs/invoice-verify-screenshot.png)
-> 中登网查询
+
+### 中登网查询
+
 ![i](imgs/zdw-query.png)
-> 中登网结果、附件
+
+### 中登网结果、附件
+
 ![i](imgs/zdw-results.png)
 
 ## 详情请联系QQ：1683361605

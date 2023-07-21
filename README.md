@@ -33,4 +33,4 @@
 
 ![i](imgs/zdw-results.png)
 
-## 详情请联系QQ：1683361605
+## 详情请联系：qimajiang03@gmail.com
